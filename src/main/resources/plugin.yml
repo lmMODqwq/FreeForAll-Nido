@@ -1,0 +1,11 @@
+name: HodoFFA
+version: '${project.version}'
+main: me.lmmodqwq.hodoffa.HodoFFA
+commands:
+  social:
+    aliases: [socials, dc, discord, forum, forums, store, support, website, youtube, yt]
+  ping:
+    description: ping
+  kill:
+  kit:
+  spawn:
